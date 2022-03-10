@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Registrarse en la app dafiti" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-03-09T04:43:15" hostname="DESKTOP-9OH32LJ" time="81.483">
+<testsuite name="Agregar producto carrito de compras" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-03-10T02:35:05" hostname="DESKTOP-9OH32LJ" time="50.191">
   <properties/>
-  <testcase name="Registro Dafiti" classname="Registrarse en la app dafiti" time="81.483"/>
+  <testcase name="Agregar producto al carrito de compras" classname="Agregar producto carrito de compras" time="50.191"/>
   <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[[Test worker] INFO io.cucumber.core.plugin.SerenityReporter - Running feature from file:///F:/projects/AutomatizacionDafitiMobile/src/test/resources/features/registrodafitimobile.feature
+  <system-err><![CDATA[[Test worker] INFO io.cucumber.core.plugin.SerenityReporter - Running feature from file:///F:/projects/AutomatizacionDafitiMobile/src/test/resources/features/carritocomprasdafitimobile.feature
 [Test worker] INFO  - 
   _____   ___   ___   _____     ___   _____     _     ___   _____   ___   ___  
  |_   _| | __| / __| |_   _|   / __| |_   _|   /_\   | _ \ |_   _| | __| |   \ 
    | |   | _|  \__ \   | |     \__ \   | |    / _ \  |   /   | |   | _|  | |) |
    |_|   |___| |___/   |_|     |___/   |_|   /_/ \_\ |_|_\   |_|   |___| |___/ 
 
-Registro Dafiti(registrarse-en-la-app-dafiti;registro-dafiti)
+Agregar producto al carrito de compras(agregar-producto-carrito-de-compras;agregar-producto-al-carrito-de-compras)
 --------------------------------------------------------------------------------
-mar 08, 2022 11:43:32 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+mar 09, 2022 9:35:21 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
 INFORMACIÓN: Detected dialect: W3C
 [Test worker] INFO  - 
   _____   ___   ___   _____     ___     _     ___   ___   ___   ___  
@@ -20,7 +20,7 @@ INFORMACIÓN: Detected dialect: W3C
    | |   | _|  \__ \   | |     |  _/  / _ \  \__ \ \__ \ | _|  | |) |
    |_|   |___| |___/   |_|     |_|   /_/ \_\ |___/ |___/ |___| |___/ 
 
-Registro Dafiti
+Agregar producto al carrito de compras
 ----------------------------------------------------------------------
 ]]></system-err>
 </testsuite>
